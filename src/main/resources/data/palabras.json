@@ -1,0 +1,37 @@
+{
+  "TECNOLOGIA": [
+    "algoritmo", "blockchain", "compilador", "docker", "ethernet",
+    "firewall", "github", "hardware", "internet", "javascript",
+    "kubernetes", "linux", "microservicio", "nodejs", "openai",
+    "python", "query", "router", "servidor", "typescript",
+    "ubuntu", "variable", "webpack", "xml", "youtube"
+  ],
+  "COMIDA": [
+    "arepa", "burrito", "ceviche", "donut", "empanada",
+    "frijoles", "guacamole", "hamburguesa", "helado", "jamonserrano",
+    "kebab", "lasagna", "mango", "nachos", "omelette",
+    "paella", "quesadilla", "ramen", "sushi", "tacos",
+    "udon", "vinagreta", "waffle", "xocolatl", "yogur"
+  ],
+  "LUGARES": [
+    "acuario", "biblioteca", "catedral", "desierto", "estadio",
+    "faro", "glaciar", "hospital", "iglesia", "jardin",
+    "kiosko", "laguna", "museo", "nevado", "observatorio",
+    "parque", "quebrada", "rio", "selva", "teatro",
+    "universidad", "volcan", "walmart", "xochimilco", "zoologico"
+  ],
+  "OBJETOS": [
+    "audifonos", "brujula", "calculadora", "dado", "espejo",
+    "florero", "guitarra", "hamaca", "imán", "juguete",
+    "kaleidoscopio", "lampara", "maleta", "navaja", "origami",
+    "paraguas", "quena", "reloj", "silla", "telescopio",
+    "uniforme", "ventilador", "walkie-talkie", "xilofono", "yunque"
+  ],
+  "ANIMALES": [
+    "aguila", "ballena", "cocodrilo", "delfin", "elefante",
+    "flamingo", "gorila", "hiena", "iguana", "jaguar",
+    "koala", "leon", "mariposa", "nutria", "oso",
+    "pinguino", "quetzal", "rinoceronte", "serpiente", "tortuga",
+    "unicornio", "vibora", "wombat", "xenopus", "yak"
+  ]
+}
